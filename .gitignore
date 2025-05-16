@@ -1,4 +1,4 @@
 #lo que se va a excluir al subir al repositorio github
 /venv/*
 /migrations/*
-alembic.ini
+/db/__pycache__/*
